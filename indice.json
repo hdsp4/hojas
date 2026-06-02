@@ -480,6 +480,11 @@
         "archivo": "pdfs/Ice Ginger Bread Ii.pdf"
     },
     {
+        "codigo": "G9748244",
+        "nombre": "Infinity Amber Air",
+        "archivo": "pdfs/Infinity Amber Air.pdf"
+    },
+    {
         "codigo": "G7799144",
         "nombre": "Ipanema C400",
         "archivo": "pdfs/Ipanema C400.pdf"
@@ -556,8 +561,8 @@
     },
     {
         "codigo": "CC431018",
-        "nombre": "Lemongrass Ginger AQ",
-        "archivo": "pdfs/Lemongrass Ginger AQ.pdf"
+        "nombre": "Lemongrass Ginger AQ",
+        "archivo": "pdfs/Lemongrass Ginger AQ.pdf"
     },
     {
         "codigo": "G9488344",
@@ -595,6 +600,11 @@
         "archivo": "pdfs/Lottus Flower.pdf"
     },
     {
+        "codigo": "G3007344",
+        "nombre": "Loving Me Air CR",
+        "archivo": "pdfs/Loving Me Air CR.pdf"
+    },
+    {
         "codigo": "CC971318",
         "nombre": "Luisa Aq 550 20217",
         "archivo": "pdfs/Luisa Aq 550 20217.pdf"
@@ -606,8 +616,8 @@
     },
     {
         "codigo": "CC419218",
-        "nombre": "Magic Garden AQ",
-        "archivo": "pdfs/Magic Garden AQ.pdf"
+        "nombre": "Magic Garden AQ",
+        "archivo": "pdfs/Magic Garden AQ.pdf"
     },
     {
         "codigo": "CC339518",
@@ -1038,6 +1048,11 @@
         "codigo": "CC382918",
         "nombre": "Uva Fuerte Q",
         "archivo": "pdfs/Uva Fuerte Q.pdf"
+    },
+    {
+        "codigo": "CC181818",
+        "nombre": "Vainilla Cedarwood Sage",
+        "archivo": "pdfs/Vainilla Cedarwood Sage.pdf"
     },
     {
         "codigo": "CC876918",
